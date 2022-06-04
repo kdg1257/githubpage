@@ -1,0 +1,38 @@
+@font-face { font-family: jb-mono; src: url('JetBrainsMono-Regular.ttf'); }
+
+
+body {
+    background-color: #2e3440;
+    color: #eceff4;
+    font-family: jb-mono;
+}
+
+a:link {
+    color: #ebcb8b;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #b48ead;
+}
+
+a:hover {
+    color: #ebcb8b;
+    text-decoration: underline;
+}
+
+h1 {
+    color: #8fbcbb;
+}
+
+h2 {
+    color: #88c0d0;
+}
+
+h3 {
+    color: #81a1c1;
+}
+
+h4 {
+    color: #5e81ac;
+}
