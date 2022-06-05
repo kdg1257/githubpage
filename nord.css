@@ -2,7 +2,7 @@
 
 
 body {
-    background-color: #5E81AC;
+    background-color: #2e3440;
     color: #eceff4;
     font-family: jb-mono;
 }
@@ -13,7 +13,7 @@ a:link {
 }
 
 a:visited {
-    color: #405eb1;
+    color: #2c354e;
 }
 
 a:hover {
@@ -26,7 +26,7 @@ h1 {
 }
 
 h2 {
-    color: #81A1C1;
+    color: #88c0d0;
 }
 
 h3 {
